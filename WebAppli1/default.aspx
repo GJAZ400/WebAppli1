@@ -12,7 +12,7 @@
         </div>
         <asp:Button ID="Button1" runat="server" Text="Niet klikken!" ToolTip="Echt niet klikken hoor" Height="59px" Width="163px" />
         <p>
-            <asp:Label ID="Label1" runat="server" Text="Goed zo"></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text="Goed zo!"></asp:Label>
         </p>
     </form>
 </body>
