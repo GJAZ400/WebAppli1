@@ -8,7 +8,6 @@ trigger:
 
 pool: 'DeadPool'
 
-
 variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
